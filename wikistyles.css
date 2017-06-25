@@ -1,7 +1,16 @@
 body {
   font-family: sans-serif;
-  background-color: navy;
+  background-color: #00004C;
   color: #FFF;
+  margin-top: 100px;
+}
+form {
+  color: #000;
+}
+input {
+  border-radius: 3px;
+  padding: 5px;
+  margin: 5px;
 }
 /*research css animations: desk with book. search bar at top*/
 /*search results fill in on a page*/
